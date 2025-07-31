@@ -1,4 +1,4 @@
-🌴 Lost in the Jungle: Enhanced Edition
+🌴 Lost in the Jungle:🌍"Lost in the Jungle"🛤️
 An immersive console-based 2D survival-adventure game built in modern C++.
 Explore a mysterious jungle, solve puzzles, find treasures, survive traps and wild animals — all while managing your stamina!
 
